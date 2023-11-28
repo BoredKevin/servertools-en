@@ -3,3 +3,6 @@
 
 > [!NOTE]\
 > This repository is approximately up to date with the latest published version
+
+> [!NOTE]\
+> I wrote this data pack primarily for my private Minecraft projects ([annhilati/meta-maltino](https://github.com/annhilati/meta-maltino))
