@@ -1,0 +1,4 @@
+tellraw @a ["",{"text":"[","color":"white"},{"text":"Broadcast","color":"gold"},{"text":"] ","color":"white"},{"text":"Der Server wird in einer Minute gestopt.","color":"red"},{"text":" Alle Spieler werden gebeten, sich auszuloggen, damit alle Daten sicher gespeichert werden."}]
+
+tellraw @s ["",{"text":"[","color":"white"},{"text":"Servertool DP","color":"gold"},{"text":"] ","color":"white"},{"text":"Wenn in den server.properties "},{"text":"function-permission-level","color":"gray"},{"text":" auf "},{"text":"4","color":"gray"},{"text":" gesetzt wurde, wird der Server in einer Minute gestopt."}]
+schedule function st:script/stop_server 60s
