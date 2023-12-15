@@ -10,11 +10,9 @@
 > I wrote this data pack primarily for my private Minecraft projects ([annhilati/meta-maltino](https://github.com/annhilati/meta-maltino))
 
 ## Compatibility
-* Modding-API/Loader: Minecraft Server
-* Technical requirements:
-    * *none*
-* Options-related requirements
-    * *none*
+* 🛠️ Modding-API/Loader: Minecraft Server
+* 📦 Technical requirements: *none*
+* ⚙️ Options-related requirements: *none*
 
 ## Language support
 Each language gets its own version of the pack
