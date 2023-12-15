@@ -1,3 +1,5 @@
+# Servertools Datapack
+
 > [!IMPORTANT]\
 > Download released versions of this pack on [CurseForge](https://www.curseforge.com/minecraft/texture-packs/servertools)
 
@@ -7,7 +9,6 @@
 > [!NOTE]\
 > I wrote this data pack primarily for my private Minecraft projects ([annhilati/meta-maltino](https://github.com/annhilati/meta-maltino))
 
-# Servertools Datapack
 ## Compatibility
 * Modding-API/Loader: Minecraft Server
 * Technical requirements:
