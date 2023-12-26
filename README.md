@@ -1,7 +1,7 @@
 # Servertools Datapack
 
 > [!IMPORTANT]\
-> Download released versions of this pack on [CurseForge](https://www.curseforge.com/minecraft/texture-packs/servertools)
+> Download released versions of this pack on [Modrinth](https://modrinth.com/datapack/servertools-datapack)
 
 > [!NOTE]\
 > This repository is approximately up to date with the latest German published version
