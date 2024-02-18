@@ -1,2 +1,2 @@
 #*.json linguist-detectable=true
-*.mcmeta linguist-detectable=true
+#*.mcmeta linguist-detectable=true
