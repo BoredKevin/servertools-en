@@ -1,5 +1,6 @@
 {
     "values": [
-        "st:script/tick"
+        "st:script/tick",
+        "dragon_title:tick"
     ]
 }
