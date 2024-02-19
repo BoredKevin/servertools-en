@@ -7,4 +7,4 @@
 > This repository is approximately up to date with the latest German published version
 
 > [!NOTE]\
-> I wrote this data pack primarily for my private Minecraft projects ([annhilati/meta-maltino](https://github.com/annhilati/meta-maltino))
+> I wrote this data pack primarily for my private Minecraft projects ([annhilati/meta-maltino-minecraft-server](https://github.com/annhilati/meta-maltino-minecraft-server))
