@@ -1,4 +1,0 @@
-#*.json linguist-detectable=true
-#*.mcmeta linguist-detectable=true
-
-*.mcfunction diff=html
