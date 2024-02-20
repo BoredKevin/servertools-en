@@ -1,1 +1,4 @@
 data/dragon_title/** linguist-vendored
+
+**.json linguist-detectable=true
+*.mcmeta linguist-detectable=true
