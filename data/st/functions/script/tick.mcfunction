@@ -1,6 +1,6 @@
-team join Rang9Mitglied @a[team=]
+team join Rank9Member @a[team=]
 bossbar set servertools:infobar players @a
-gamemode spectator @a[team=Rang91CAM]
+gamemode spectator @a[team=Rank91CAM]
 
 # Settings
 scoreboard objectives add servertools.settings dummy
