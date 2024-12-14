@@ -1,4 +1,4 @@
-# Servertools Datapack
+# Servertools EN
 
 This datapack is a fork of the [Servertools Datapack](https://modrinth.com/datapack/servertools-datapack) by [Annhilati](https://modrinth.com/user/Annhilati). Go check them out!
 
