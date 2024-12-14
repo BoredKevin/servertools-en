@@ -1,10 +1,9 @@
 # Servertools Datapack
 
+This datapack is a fork of the [Servetools Datapack](https://modrinth.com/datapack/servertools-datapack) by [Annhilati](https://modrinth.com/user/Annhilati). Go check them out!
+
 > [!IMPORTANT]\
-> Download released versions of this pack on [Modrinth](https://modrinth.com/datapack/servertools-datapack)
+> Download released versions of this pack on [Modrinth](https://modrinth.com/datapack/servertools-en)
 
 > [!NOTE]\
-> This repository is approximately up to date with the latest German published version
-
-> [!NOTE]\
-> I wrote this data pack primarily for my private Minecraft projects ([annhilati/meta-maltino-minecraft-server](https://github.com/annhilati/meta-maltino-minecraft-server))
+> This datapack is approximately up to date with the latest original German published version
