@@ -1,1 +1,1 @@
-tellraw @a ["",{"text":"[","color":"white"},{"text":"Broadcast","color":"gold"},{"text":"] Alle Spieler in der Oberwelt werden gebeten, den Server zu verlassen oder zu schlafen, damit die Nacht übersprungen werden kann.","color":"white"}]
+tellraw @a ["",{"text":"[","color":"white"},{"text":"Broadcast","color":"gold"},{"text":"] Please leave the server or sleep so that the night can be skipped.","color":"white"}]

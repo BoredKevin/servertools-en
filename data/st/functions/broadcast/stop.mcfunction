@@ -1,4 +1,4 @@
-tellraw @a ["",{"text":"[","color":"white"},{"text":"Broadcast","color":"gold"},{"text":"] ","color":"white"},{"text":"Der Server wird in einer Minute gestopt.","color":"red"},{"text":" Alle Spieler werden gebeten, sich auszuloggen, damit alle Daten sicher gespeichert werden."}]
+tellraw @a ["",{"text":"[","color":"white"},{"text":"Broadcast","color":"gold"},{"text":"] ","color":"white"},{"text":"Server will be closed in one minute!","color":"red"},{"text":" It is recommended to leave the server or you will be kicked!"}]
 
-tellraw @s ["",{"text":"[","color":"white"},{"text":"Servertool DP","color":"gold"},{"text":"] ","color":"white"},{"text":"Wenn in den server.properties "},{"text":"function-permission-level","color":"gray"},{"text":" auf "},{"text":"4","color":"gray"},{"text":" gesetzt wurde, wird der Server in einer Minute gestopt."}]
+tellraw @s ["",{"text":"[","color":"white"},{"text":"Servertool DP","color":"gold"},{"text":"] ","color":"white"},{"text":"If set in server.properties, "},{"text":"function-permission-level","color":"gray"},{"text":" auf "},{"text":"4","color":"gray"},{"text":" the server is stopped in one minute. "},{"text":"It must therefore be restarted manually!","color":"red"}]
 schedule function st:script/stop_server 60s
