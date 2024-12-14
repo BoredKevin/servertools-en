@@ -1,2 +1,2 @@
-kick @a Der Server wurde gestopt. Er ist vermutlich gleich wieder online.
+kick @a The server has been closed. See you soon!
 stop
